@@ -1,4 +1,4 @@
-  Elevate Labs To-Do List
+###  Elevate Labs To-Do List
 
 A simple and elegant **To-Do List application** built using **Java Swing**.  
 This app allows users to easily add and delete tasks from a list through a clean and minimal graphical interface.
